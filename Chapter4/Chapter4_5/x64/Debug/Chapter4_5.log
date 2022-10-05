@@ -1,0 +1,4 @@
+﻿  Chapter4_5.cpp
+C:\Users\user\source\repos\JJCppStudy\Chapter4_5\Chapter4_5.cpp(11,9): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+C:\Users\user\source\repos\JJCppStudy\Chapter4_5\Chapter4_5.cpp(14,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Chapter4_5.vcxproj -> C:\Users\user\source\repos\JJCppStudy\x64\Debug\Chapter4_5.exe

@@ -1,0 +1,2 @@
+﻿  Chapter6_6.cpp
+C:\Users\user\source\repos\JJCppStudy\Chapter6\Chapter6_6\Chapter6_6.cpp(28): error C4700: uninitialized local variable 'ptr_x' used

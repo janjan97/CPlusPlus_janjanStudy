@@ -1,0 +1,5 @@
+﻿  Chapter2_1.cpp
+C:\Users\user\source\repos\JJCppStudy\Chapter2_1\Chapter2_1.cpp(9,9): error C2374: 'jin': redefinition; multiple initialization
+C:\Users\user\source\repos\JJCppStudy\Chapter2_1\Chapter2_1.cpp(8): message : see declaration of 'jin'
+C:\Users\user\source\repos\JJCppStudy\Chapter2_1\Chapter2_1.cpp(10,9): error C2374: 'jin': redefinition; multiple initialization
+C:\Users\user\source\repos\JJCppStudy\Chapter2_1\Chapter2_1.cpp(8): message : see declaration of 'jin'

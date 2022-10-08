@@ -1,0 +1,13 @@
+﻿  Chapter7_7_3.cpp
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(15,14): error C2668: 'print': ambiguous call to overloaded function
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(10,6): message : could be 'void print(float)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(9,6): message : or       'void print(unsigned int)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(15,14): message : while trying to match the argument list '(char)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(16,12): error C2668: 'print': ambiguous call to overloaded function
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(10,6): message : could be 'void print(float)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(9,6): message : or       'void print(unsigned int)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(16,12): message : while trying to match the argument list '(int)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(17,18): error C2668: 'print': ambiguous call to overloaded function
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(10,6): message : could be 'void print(float)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(9,6): message : or       'void print(unsigned int)'
+C:\Users\user\source\repos\JJCppStudy\Chapter7\Chapter7_7\Chapter7_7_3.cpp(17,18): message : while trying to match the argument list '(double)'

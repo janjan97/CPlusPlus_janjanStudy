@@ -1,0 +1,8 @@
+﻿  Chapter12_10.cpp
+C:\Users\user\source\repos\JJCppStudy\Chapter12\Chapter12_10\Chapter12_10.cpp(46,26): warning C4305: '인수': 'int'에서 'const _Elem'(으)로 잘립니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\user\source\repos\JJCppStudy\Chapter12\Chapter12_10\Chapter12_10.cpp(46,23): warning C4309: '인수': 상수 값이 잘립니다.
+  Chapter12_10.vcxproj -> C:\Users\user\source\repos\JJCppStudy\Debug\Chapter12_10.exe

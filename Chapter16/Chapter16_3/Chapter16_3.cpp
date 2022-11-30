@@ -24,14 +24,14 @@ int main()
 
     // sort
     sort(container.begin(), container.end());
-    //li.sort();
+    //li.sort(); 리스트는 클래스에 정렬이있다! container.sort();
 
     for (auto& e : container) cout << e << " ";
     cout << endl;
 
     // reverse
     reverse(container.begin(), container.end());
-    //li.reverse();
+    //li.reverse(); -> container.reverse();
 
     for(auto & e : container) cout << e << " ";
     cout << endl;
